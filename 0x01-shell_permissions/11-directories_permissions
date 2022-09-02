@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R --preserve-root a+x /*.txt
+chmod a+x *[![:.txt:]]
