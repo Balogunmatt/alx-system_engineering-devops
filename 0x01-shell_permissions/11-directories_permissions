@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R --preserve-root *.txt
+chmod -R --preserve-root +x *.txt
