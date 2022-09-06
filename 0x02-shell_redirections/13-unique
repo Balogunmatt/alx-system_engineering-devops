@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -u << EOF | sort
+uniq -u | sort
